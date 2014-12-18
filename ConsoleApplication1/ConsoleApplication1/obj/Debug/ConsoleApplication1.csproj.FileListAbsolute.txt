@@ -7,3 +7,6 @@ c:\users\vjha\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleA
 F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\VijayJha\TestProjects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

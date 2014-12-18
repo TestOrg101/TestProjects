@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
+    public class Test
+    {
+        public static void ShowMessage()
+        {
+            Console.WriteLine("Test message to be shown.");
+        }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -21,14 +28,16 @@ namespace ConsoleApplication1
                 Console.WriteLine("False");
             }
 
-            if(con1.HasValue  & con1.Value)
-            {
-                Console.WriteLine("true");
-            }
-            else
-            {
-                Console.WriteLine("False");
-            }
+            //if(con1.HasValue  & con1.Value)
+            //{
+            //    Console.WriteLine("true");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("False");
+            //}
+            Test.ShowMessage();
+
             Console.ReadLine();
         }
     }
