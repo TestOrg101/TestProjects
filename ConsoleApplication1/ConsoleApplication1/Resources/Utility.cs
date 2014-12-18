@@ -12,5 +12,10 @@ namespace ConsoleApplication1.Resources
       {
           Console.WriteLine("Testing Folder Addition");
       }
+
+      public static void Display()
+      {
+          Console.WriteLine("Testing Folder Addition");
+      }
     }
 }
